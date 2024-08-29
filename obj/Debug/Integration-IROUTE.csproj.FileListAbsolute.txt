@@ -1,0 +1,11 @@
+C:\EXXIS\Integration-IROUTE\Integration-IROUTE\bin\Debug\Integration-IROUTE.exe.config
+C:\EXXIS\Integration-IROUTE\Integration-IROUTE\bin\Debug\Integration-IROUTE.exe
+C:\EXXIS\Integration-IROUTE\Integration-IROUTE\bin\Debug\Integration-IROUTE.pdb
+C:\EXXIS\Integration-IROUTE\Integration-IROUTE\bin\Debug\SAPBusinessOneSDK.dll
+C:\EXXIS\Integration-IROUTE\Integration-IROUTE\obj\Debug\Integration-IROUTE.csproj.AssemblyReference.cache
+C:\EXXIS\Integration-IROUTE\Integration-IROUTE\obj\Debug\Integration_IROUTE.Properties.Resources.resources
+C:\EXXIS\Integration-IROUTE\Integration-IROUTE\obj\Debug\Integration-IROUTE.csproj.GenerateResource.cache
+C:\EXXIS\Integration-IROUTE\Integration-IROUTE\obj\Debug\Integration-IROUTE.csproj.CoreCompileInputs.cache
+C:\EXXIS\Integration-IROUTE\Integration-IROUTE\obj\Debug\Integration-IROUTE.csproj.CopyComplete
+C:\EXXIS\Integration-IROUTE\Integration-IROUTE\obj\Debug\Integration-IROUTE.exe
+C:\EXXIS\Integration-IROUTE\Integration-IROUTE\obj\Debug\Integration-IROUTE.pdb
